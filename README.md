@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmodaldahol" alt="mahmodaldahol" /></a> </p>
 
-- 🔭 I’m currently working on **binding affinity project**
+- 🔭 I’m currently working on **binding affinity project in drugs discovery process**
 
 - 🌱 I’m currently learning **django python framework**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mahmodaldahol010@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
