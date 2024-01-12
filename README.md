@@ -1,7 +1,7 @@
 <h3 align="center">A passionate AI engineer from Syria</h3>
 
 
-- 🔭 I’m currently working on **CRM system with django framework**
+- 🔭 I’m currently working on **hospital managment system using odoo**
 
 - 🌱 I’m currently learning **data engineering**
 
